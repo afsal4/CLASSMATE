@@ -1,5 +1,9 @@
 # Classmate Website
 
+<img src="preview.png" alt="Website Preivew">
+
+<br>
+
 A simple static website showcasing personalized notebooks from Classmate, created using HTML and CSS for learning and showcasing front-end development skills.
 
 ## How I Made This
